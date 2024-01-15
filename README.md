@@ -1,1 +1,3 @@
-These three documents are work samples of Xinshu Zhao. Since the HTML file is an interactive dashboard, please download and open it.
+These are work samples in each folder of Xinshu Zhao. 
+
+Hint: Since the interactive dashboard is an HTML file, please download and open in broswer.
